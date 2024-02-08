@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matleke217
-- 👀 I’m interested in front developdment 
+- 👀 I’m interested in front-end developdment 
 - 🌱 I’m currently learning angular 
-- 💞️ I’m looking to collaborate on front development 
+- 💞️ I’m looking to collaborate on front-end development 
 - 📫 How to reach me ... mpyamatleke@gmail.com
 
 <!---
