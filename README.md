@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matleke217
-- 👀 I’m interested in cloud computing 
-- 🌱 I’m currently learning AWS cloud 
-- 💞️ I’m looking to collaborate on cloud computing 
+- 👀 I’m interested in front developdment 
+- 🌱 I’m currently learning angular 
+- 💞️ I’m looking to collaborate on front development 
 - 📫 How to reach me ... mpyamatleke@gmail.com
 
 <!---
